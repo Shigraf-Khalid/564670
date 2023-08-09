@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @564670
+- 👋 Hi, I’m Shigraf Khalid
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on ...
